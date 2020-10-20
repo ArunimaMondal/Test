@@ -3,5 +3,7 @@ Welcome to Telusko Kitchen
 kheer
 pasta
 French Fry
+Beans
+Pizza
 
 Thank You:)
